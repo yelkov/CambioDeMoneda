@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CambioDeMoneda</string>
+    <string name="euros_to_pts">Euros a Pts.</string>
+    <string name="pts_to_euros">Pts. a Euros</string>
+    <string name="enter_value">Introduce valor:</string>
+    <string name="hint_value">Valor</string>
+    <string name="btn_exchange_text">Cambiar</string>
+    <string name="cambio_de_moneda">CAMBIO DE MONEDA</string>
+    <string name="btn_volver">Volver</string>
+    <string name="resultado">RESULTADO</string>
+    <string name="resultado_euros_to_pts"> " euros equivalen a " </string>
+    <string name="resultado_euros">" euros."</string>
+    <string name="resultado_ptas_to_euros">" ptas. equivalen a "</string>
+    <string name="resultado_ptas">" pesetas."</string>
+</resources>

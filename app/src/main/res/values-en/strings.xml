@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoneyExchange</string>
+    <string name="euros_to_pts">Euro to Pts.</string>
+    <string name="pts_to_euros">Pts. to Euro</string>
+    <string name="enter_value">Enter value:</string>
+    <string name="hint_value">Value</string>
+    <string name="btn_exchange_text">Exchange</string>
+    <string name="cambio_de_moneda">MONEY EXCHANGE</string>
+    <string name="btn_volver">Go back</string>
+    <string name="resultado">RESULT</string>
+    <string name="resultado_euros_to_pts">" euros are equivalent to "</string>
+    <string name="resultado_euros">" euros."</string>
+    <string name="resultado_ptas_to_euros">" ptas. are equivalent to "</string>
+    <string name="resultado_ptas">" pesetas."</string>
+</resources>
