@@ -26,14 +26,13 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
         inicializarViews();
 
         btnCambiar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 if(etValor.getText().toString().equals("")){
-                    Toast.makeText(MainActivity.this, "Debe introducir un valor numérico (se aceptan decimales).", Toast.LENGTH_LONG).show();
+                    Toast.makeText(MainActivity.this, getString(R.string.toast_values), Toast.LENGTH_LONG).show();
                     return;
                 }
                 Float valor = Float.parseFloat(String.valueOf(etValor.getText()));

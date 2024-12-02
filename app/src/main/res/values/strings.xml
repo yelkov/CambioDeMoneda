@@ -12,4 +12,5 @@
     <string name="resultado_euros">" euros."</string>
     <string name="resultado_ptas_to_euros">" ptas. equivalen a "</string>
     <string name="resultado_ptas">" pesetas."</string>
+    <string name="toast_values">Debe introducir un valor numérico (se aceptan decimales).</string>
 </resources>
